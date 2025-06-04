@@ -7,3 +7,16 @@ Un petit projet pour mettre en place une intégration continue simple avec GitHu
 ```bash
 npm ci
 ```
+
+## 🚀 Lancer le lint
+
+```bash
+npm run lint
+```
+
+## ✅ Lancer les tests
+
+```bash
+npm test
+```
+
