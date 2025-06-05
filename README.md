@@ -1,3 +1,5 @@
+[![Node.js Package](https://github.com/PaulineChar/atelier-ci-cd-node/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/PaulineChar/atelier-ci-cd-node/actions/workflows/ci.yml)
+
 # 🧪 Atelier CI/CD – Construire son premier pipeline
 
 Un petit projet pour mettre en place une intégration continue simple avec GitHub Actions ou GitLab CI/CD.
